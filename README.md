@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Heitor Sena
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sena-pixel)](https://github.com/anuraghazra/github-readme-stats)
+![Heitor sena GitHub stats](https://github-readme-stats.vercel.app/api?username=senapixel&hide=contribs,prs)
 
 🎓 18 anos | Estudante de Ciência da Computação  
 💻 Estudante e aspirante a desenvolvedor de software  
